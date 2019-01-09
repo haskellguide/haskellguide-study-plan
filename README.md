@@ -84,13 +84,6 @@ Some subjects take one day, and some will take multiple days. Some are just lear
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
         - [answers to questions](https://github.com/lekkas/c-algorithms)
 
-- [ ] **How computers process a program:**
-    - [ ] [How CPU executes a program](https://www.youtube.com/watch?v=XM4lGflQFvA)
-    - [ ] [How computers calculate - ALU (video)](https://youtu.be/1I5ZMmrOfnA)
-    - [ ] [Registers and RAM (video)](https://youtu.be/fpnE6UAfbtU)
-    - [ ] [The Central Processing Unit (CPU) (video)](https://youtu.be/FZGugFqdr60)
-    - [ ] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
-
 </details>
 
 ## LICENSE
@@ -113,6 +106,107 @@ Some subjects take one day, and some will take multiple days. Some are just lear
 - [ ] https://github.com/haskellguide/module-moreparser
 - [ ] https://github.com/haskellguide/module-fileio
 
+
 # excercises
+- [ ] acronym
+- [ ] accumulate
+- [ ] all-your-base
+- [ ] allergies
+- [ ] alphametics
+- [ ] anagram
+- [ ] armstrong-numbers
+- [ ] atbash-cipher
+- [ ] bank-account
+- [ ] binary-search-tree
+- [ ] beer-song
+- [ ] bob
+- [ ] binary
+- [ ] bracket-push
+- [ ] bowling
+- [ ] clock
+- [ ] change
+- [ ] connect
+- [ ] complex-numbers
+- [ ] collatz-conjecture
+- [ ] crypto-square
+- [ ] custom-set
+- [ ] difference-of-squares
+- [ ] diamond
+- [ ] dominoes
+- [ ] dnd-character
+- [ ] food-chain
+- [ ] etl
+- [ ] gigasecond
+- [ ] forth
+- [ ] grade-school
+- [ ] go-counting
+- [ ] hamming
+- [ ] grains
+- [ ] hexadecimal
+- [ ] hello-world
+- [ ] isbn-verifier
+- [ ] house
+- [ ] largest-series-product
+- [ ] kindergarten-garden
+- [ ] isogram
+- [ ] leap
+- [ ] linked-list
+- [ ] lens-person
+- [ ] matrix
+- [ ] luhn
+- [ ] list-ops
+- [ ] minesweeper
+- [ ] meetup
+- [ ] nucleotide-count
+- [ ] nth-prime
+- [ ] octal
+- [ ] ocr-numbers
+- [ ] pangram
+- [ ] palindrome-products
+- [ ] perfect-numbers
+- [ ] pascals-triangle
+- [ ] parallel-letter-frequency
+- [ ] pig-latin
+- [ ] phone-number
+- [ ] pov
+- [ ] poker
+- [ ] proverb
+- [ ] protein-translation
+- [ ] prime-factors
+- [ ] rail-fence-cipher
+- [ ] queen-attack
+- [ ] pythagorean-triplet
+- [ ] raindrops
+- [ ] rna-transcription
+- [ ] robot-name
+- [ ] robot-simulator
+- [ ] roman-numerals
+- [ ] rotational-cipher
+- [ ] run-length-encoding
+- [ ] saddle-points
+- [ ] say
+- [ ] scrabble-score
+- [ ] secret-handshake
+- [ ] sgf-parsing
+- [ ] series
+- [ ] sieve
+- [ ] simple-linked-list
+- [ ] simple-cipher
+- [ ] spiral-matrix
+- [ ] space-age
+- [ ] sublist
+- [ ] strain
+- [ ] triangle
+- [ ] transpose
+- [ ] sum-of-multiples
+- [ ] twelve-days
+- [ ] trinary
+- [ ] wordy
+- [ ] word-count
+- [ ] zipper
+- [ ] zebra-puzzle
 
 # applications
+- [ ] https://github.com/haskellguide/app-tictactoe
+- [ ] https://github.com/haskellguide/app-chat-server
+- [ ] https://github.com/haskellguide/app-todo-mvc
