@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This is a multi-week study plan for going from web developer (self-taught, no experience with functional programming) to software developer that ships haskell.
+This is a multi-week study plan for going from web developer (self-taught, no experience with functional programming) to a software developer that is proficient in haskell.
 
 ## Table of Contents
 
