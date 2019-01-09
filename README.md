@@ -2,7 +2,7 @@
 
 ## What is it?
 
-http://probot-invite.herokuapp.com/join/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJoYXNrZWxsZ3VpZGUiLCJpc3MiOjU2OTgwMCwicm9sZSI6Im1lbWJlciIsInRlYW1zIjpbIjMwNjQ3NjUiXSwiaWF0IjoxNTQ3MDI2OTI4fQ.XFdgwjJqtIMK6EJim4CbWtIHDxKIMspBh8H30vX57Bs
+## Table of Contents
 
 - [What is it?](#what-is-it)
 - [Why use it?](#why-use-it)
