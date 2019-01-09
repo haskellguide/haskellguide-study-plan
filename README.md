@@ -2,6 +2,8 @@
 
 ## What is it?
 
+This is my multi-week study plan for going from web developer (self-taught, no experience with functional programming) to a haskell software engineer.
+
 ## Table of Contents
 
 - [What is it?](#what-is-it)
