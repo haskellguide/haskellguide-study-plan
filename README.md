@@ -1,4 +1,4 @@
-# Haskell University
+# Haskell Study Guide
 
 ## What is it?
 
