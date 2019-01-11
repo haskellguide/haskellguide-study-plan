@@ -207,6 +207,6 @@ Some subjects take one day, and some will take multiple days. Some are just lear
 - [ ] zebra-puzzle
 
 # applications
-- [ ] https://github.com/haskellguide/app-todo-mvc
-- [ ] https://github.com/haskellguide/app-chat-server
-- [ ] https://github.com/haskellguide/app-tictactoe
+- [ ] https://github.com/haskellguide/todo-mvc-app
+- [ ] https://github.com/haskellguide/chat-server-app
+- [ ] https://github.com/haskellguide/tictactoe-app
