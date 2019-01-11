@@ -91,20 +91,20 @@ Some subjects take one day, and some will take multiple days. Some are just lear
 [CC-BY-SA-4.0](./LICENSE.txt)
 
 # learning modules
-- [ ] https://github.com/haskellguide/module-syntax
-- [ ] https://github.com/haskellguide/module-optional
-- [ ] https://github.com/haskellguide/module-monad
-- [ ] https://github.com/haskellguide/module-state
-- [ ] https://github.com/haskellguide/module-statet
-- [ ] https://github.com/haskellguide/module-functor
-- [ ] https://github.com/haskellguide/module-compose
-- [ ] https://github.com/haskellguide/module-traversable
-- [ ] https://github.com/haskellguide/module-list
-- [ ] https://github.com/haskellguide/module-syntax
-- [ ] https://github.com/haskellguide/module-applicative
-- [ ] https://github.com/haskellguide/module-jsonparser
-- [ ] https://github.com/haskellguide/module-moreparser
-- [ ] https://github.com/haskellguide/module-fileio
+- [ ] https://github.com/haskellguide/syntax-module
+- [ ] https://github.com/haskellguide/optional-module
+- [ ] https://github.com/haskellguide/monad-module
+- [ ] https://github.com/haskellguide/state-module
+- [ ] https://github.com/haskellguide/statet-module
+- [ ] https://github.com/haskellguide/functor-module
+- [ ] https://github.com/haskellguide/compose-module
+- [ ] https://github.com/haskellguide/traversable-module
+- [ ] https://github.com/haskellguide/list-module
+- [ ] https://github.com/haskellguide/syntax-module
+- [ ] https://github.com/haskellguide/applicative-module
+- [ ] https://github.com/haskellguide/jsonparser-module
+- [ ] https://github.com/haskellguide/moreparser-module
+- [ ] https://github.com/haskellguide/fileio-module
 
 
 # excercises
