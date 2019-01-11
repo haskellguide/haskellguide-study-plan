@@ -34,7 +34,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git checkout -b progress`
 
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
+`git remote add jwasham https://github.com/haskellguide/haskell-study-guide`
 
 `git fetch --all`
 
