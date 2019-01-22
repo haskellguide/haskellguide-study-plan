@@ -107,7 +107,6 @@ Some subjects take one day, and some will take multiple days. Some are just lear
 - [ ] https://github.com/haskellguide/moreparser-module
 - [ ] https://github.com/haskellguide/fileio-module
 
-
 # excercises
 - [ ] acronym
 - [ ] accumulate
@@ -211,3 +210,6 @@ Some subjects take one day, and some will take multiple days. Some are just lear
 - [ ] https://github.com/haskellguide/todo-mvc-app
 - [ ] https://github.com/haskellguide/chat-server-app
 - [ ] https://github.com/haskellguide/tictactoe-app
+
+# misc
+- [ ] https://github.com/haskellguide/profiling-module
