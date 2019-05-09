@@ -218,3 +218,6 @@ Some subjects take one day, and some will take multiple days. Some are just lear
 
 # foundational papers
 - [ ] https://github.com/cohomolo-gy/haskell-resources/blob/master/README.md
+
+# other study plans
+- [ ] https://github.com/soupi/haskell-study-plan/blob/master/README.org
