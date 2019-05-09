@@ -221,3 +221,6 @@ Some subjects take one day, and some will take multiple days. Some are just lear
 
 # other study plans
 - [ ] https://github.com/soupi/haskell-study-plan/blob/master/README.org
+
+# language extensions
+- [ ] https://limperg.de/ghc-extensions/
