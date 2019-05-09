@@ -214,3 +214,7 @@ Some subjects take one day, and some will take multiple days. Some are just lear
 
 # misc
 - [ ] https://github.com/haskellguide/profiling-module
+
+
+# foundational papers
+- [ ] https://github.com/cohomolo-gy/haskell-resources/blob/master/README.md
