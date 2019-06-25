@@ -224,3 +224,6 @@ Some subjects take one day, and some will take multiple days. Some are just lear
 
 # language extensions
 - [ ] https://limperg.de/ghc-extensions/
+
+# papers
+- https://www.cs.ox.ac.uk/jeremy.gibbons/publications/iterator.pdf
