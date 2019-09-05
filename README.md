@@ -17,6 +17,12 @@ This is a multi-week study plan for going from web developer (self-taught, no ex
 
 ## Why use it?
 
+"list=refl
+functor=lift a function into a context, eg list
+applicative=same but the function can have any number of args
+monad=functor but you're allowed to squish it when nested. Use it to chain exprs with functor results
+comonad=you don't need it
+traversable=the FP cheat code"
 
 ## How to use it
 
